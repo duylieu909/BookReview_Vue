@@ -1,9 +1,9 @@
 ## Project setup
 
-# frontend-pj
+# frontend
 npm install
 npm run serve
 
-# backend-pj
+# backend
 npm install 
 npm start 
