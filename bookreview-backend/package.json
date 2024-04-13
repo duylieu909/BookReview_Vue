@@ -7,7 +7,7 @@
         "start": "nodemon server.js"
     },
 
-    "author": "NguyenKhiem_ThienNgan",
+    "author": "HoangDuy",
 
     "license": "ISC",
     "dependencies": {
