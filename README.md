@@ -1,9 +1,17 @@
 ## Project setup
 
-# frontend
+# Frontend
+
+cd frontend
+
 npm install
+
 npm run serve
 
-# backend
+# Backend
+
+cd backend 
+
 npm install 
+
 npm start 
